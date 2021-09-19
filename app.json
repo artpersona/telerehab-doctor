@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DoctorSide",
+    "slug": "DoctorSide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DoctorSide"
+}
